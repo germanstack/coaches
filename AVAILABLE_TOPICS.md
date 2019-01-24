@@ -5,7 +5,7 @@
 Please, feel awesome to add any topic you think is missing from the [docs](https://germanstack.z19.web.core.windows.net) below.
 
 e.g.
-- How to deploy a site using Node.js
+- How to deploy a Node.js Web Application.
 
 
 
