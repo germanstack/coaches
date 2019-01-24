@@ -10,7 +10,7 @@ Before engaging with Stacks as a coach:
 - An individual should understand the importance of staying true to themselves and their commitment to uphold the COC adopted by Stacks. 
 
 
-If you fully agree to the conditions above this automatically means you are legally bonded to this contributors’ covenant. Fill the form here and return for the onboarding vetting process. 
+If you fully agree to the conditions above this automatically means you are legally bonded to this contributors’ covenant. Fill the form [here](https://goo.gl/forms/ACtFziaeX5pnU9mg2) and return for the onboarding vetting process. 
 
 ## Onboarding Process
 
